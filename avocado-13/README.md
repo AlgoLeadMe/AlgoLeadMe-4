@@ -2,5 +2,5 @@
 
 | 차시 |     날짜     | 문제유형 |                            링크                            | 풀이 |
 |:----:|:----------:|:----:|:--------------------------------------------------------:|:----:|
-| 1차시 | 2024.01.01 |  구현  | <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a> | - |
+| 1차시 | 2024.01.01 |  구현  | <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a> | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/5">#5</a> |
 ---
