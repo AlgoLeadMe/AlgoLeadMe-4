@@ -1,11 +1,14 @@
 N = int(input())
 count = 0
-a = N//10
-b = N - a*10
-n = (b*10 + a+b)
-while N != n:
-    a = n//10
-    b = n - a*10
-    n = (b*10 + a+b)
+origin = N  # 초기 주어진 수를 저장해둡니다.
+
+while True:
+    a = N // 10
+    b = N % 10
+    new_number = a + b  # 주어진 수의 각 자릿수를 더합니다.
+    N = (b * 10) + (new_number % 10)  # 새로운 수를 만듭니다.
     count += 1
+    if N == origin:  # 주어진 수로 돌아왔을 때 반복문을 종료합니다.
+        break
+
 print(count)
