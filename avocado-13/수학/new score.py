@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 N = int(input())  # 시험 본 과목의 개수 N 입력
 scores = list(map(int, input().split()))  # 세준이의 현재 성적 입력
 
