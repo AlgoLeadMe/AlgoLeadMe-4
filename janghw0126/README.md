@@ -6,4 +6,5 @@
 | 2차시 | 2024.1.4 |  Implementation |  <a href= "https://www.acmicpc.net/problem/1152">단어의 개수</a> |[#9](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/9) |
 | 3차시 | 2024.1.7 |  Implementation |  <a href= "https://www.acmicpc.net/problem/1157">단어 공부</a> |[#13](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/13) |
 | 4차시 | 2024.1.12 |  Implementation |  <a href= "https://www.acmicpc.net/problem/2869">달팽이는 올라가고 싶다</a> |[#20](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/20) |
+| 5차시 | 2024.1.13 |  mathematics |  <a href= "https://www.acmicpc.net/problem/2581">소수</a> |[#22](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/22) |
 ---
