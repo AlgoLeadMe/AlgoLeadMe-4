@@ -13,7 +13,7 @@ def h(n):
     global a0
     global c
     return (a1-c)*n + a0
-n = n0 
+
 
 if(a1<=c) and h(n0)<= 0 :
     res = 1
