@@ -7,7 +7,7 @@ T=int(input())
 for i in range(T):
     stack = []
     #반복문을 통해 테스트 데이터를 입력받는다.
-	#sys 모듈을 쓸 경우 개행문자도 문자열에 포함되기 때문에 rstrip()을 통해 제거해줌.
+    #sys 모듈을 쓸 경우 개행문자도 문자열에 포함되기 때문에 rstrip()을 통해 제거해준다.
     for i in input().rstrip():
         #"("을 만났을 경우 stack에 추가한다.
         if i == "(":
