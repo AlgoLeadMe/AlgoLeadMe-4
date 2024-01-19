@@ -8,4 +8,3 @@
 | 4차시 | 2024.01.10 |  스택  | <a href=https://www.acmicpc.net/problem/2493>탑</a>  | [#17](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/17) |
 | 5차시 | 2024.01.13 |  정수론  | <a href=https://www.acmicpc.net/problem/9506>약수들의 합</a>  | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/22) |
 | 6차시 | 2024.01.16 |  자료 구조  | <a href=https://www.acmicpc.net/problem/10816>숫자 카드 2</a>  | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/25) |
----
