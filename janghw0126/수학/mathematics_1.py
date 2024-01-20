@@ -1,4 +1,4 @@
-# M과 N을 받는다
+# M과 N을 받는다.
 M = int(input())
 N = int(input())
 
