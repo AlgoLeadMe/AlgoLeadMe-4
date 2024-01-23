@@ -8,4 +8,5 @@
 | 4차시 | 2024.01.10 |  큐  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42583">다리를 지나는 트럭</a>   | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/19) |
 | 5차시 | 2024.01.13 |  해시  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">전화번호 목록</a>   | [#21](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/21) |
 | 6차시 | 2024.01.16 |  해시  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578">의상</a>   | [#29](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/29) |
+| 7차시 | 2024.01.19 |  BFS  | <a href="https://www.acmicpc.net/problem/14248">점프 점프</a>   | [#33](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/33) |
 ---
