@@ -16,7 +16,7 @@ for _ in range(n):
     while count<num:
         #스택이 비어있을 경우를 대비해서 count를 1 증가시켜준다.
         count+=1
-        stack.append(count)\
+        stack.append(count)
         #stack이 push된 것이니까 "+"를 append 해준다.
         result.append("+")
 
