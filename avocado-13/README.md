@@ -9,4 +9,7 @@
 | 5차시 | 2024.01.13 |  그리디  | <a href="https://nearhome.tistory.com/24">1이 될 때까지 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/22"> #22 </a>|
 | 6차시 | 2024.01.16 |  수학  | <a href="https://www.acmicpc.net/problem/24313">알고리즘 수업 - 점근적 표기 1 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/27"> #27 </a>|
 | 7차시 | 2024.01.19 |  수학  | <a href="https://www.acmicpc.net/problem/1193">분수 찾기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/32"> #32 </a>|
+
+| 9차시 | 2024.01.25 |  이진 탐색 | <a href="https://www.acmicpc.net/problem/2805">나무 자르기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/41"> #41 </a>|
+
 ---
