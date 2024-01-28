@@ -11,4 +11,5 @@
 | 7차시 | 2024.1.19 |  Stack |  <a href= "https://www.acmicpc.net/problem/9012">괄호</a> |[#30](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/30) |
 | 8차시 | 2024.1.23 |  Stack |  <a href= "https://www.acmicpc.net/problem/1874">스택 수열</a> |[#36](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/36) |
 | 9차시 | 2024.1.25 |  Stack |  <a href= "https://www.acmicpc.net/problem/4949">균형잡힌 세상</a> |[#40](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/40) |
+| 10차시 | 2024.1.28 |  Queue |  <a href= "https://www.acmicpc.net/problem/10845">큐</a> |[#42](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/42) |
 ---
