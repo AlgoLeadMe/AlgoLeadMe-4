@@ -7,5 +7,7 @@
 | 3차시 | 2024.01.07 |  수학  | <a href="https://www.acmicpc.net/problem/1546">평균 </a> | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/16">#16</a> |
 | 4차시 | 2024.01.10 |  그리디  | <a href="https://velog.velcdn.com/images%2Fmins_g%2Fpost%2Fc3c87542-3d13-492f-bdaa-789bf60f0351%2Fimage.png">큰 수의 법칙 </a> | <a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/18">#18</a> |
 | 5차시 | 2024.01.13 |  그리디  | <a href="https://nearhome.tistory.com/24">1이 될 때까지 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/22"> #22 </a>|
-
+| 6차시 | 2024.01.16 |  수학  | <a href="https://www.acmicpc.net/problem/24313">알고리즘 수업 - 점근적 표기 1 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/27"> #27 </a>|
+| 7차시 | 2024.01.19 |  수학  | <a href="https://www.acmicpc.net/problem/1193">분수 찾기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/32"> #32 </a>|
+| 8차시 | 2024.01.19 |  이진 탐색  | <a href="https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC">부품 찾기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/37"> #37|
 ---
