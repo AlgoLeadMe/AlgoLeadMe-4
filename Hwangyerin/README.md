@@ -10,5 +10,4 @@
 | 6차시 | 2024.01.16 |  자료 구조  | <a href=https://www.acmicpc.net/problem/10816>숫자 카드 2</a>  | [#25](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/25) |
 | 7차시 | 2024.01.19 |  수학  | <a href=https://www.acmicpc.net/problem/1065>한수</a>  | [#31](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/31) |
 | 8차시 | 2024.01.23 |  정렬  | <a href=https://www.acmicpc.net/problem/10825>국영수</a>  | [#34](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/34) |
----
-
+| 9차시 | 2024.01.25 |  구현 | <a href=https://www.acmicpc.net/problem/1244>스위치 켜고 끄기</a>  | [#39](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/39) |
