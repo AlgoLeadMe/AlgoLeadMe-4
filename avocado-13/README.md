@@ -10,4 +10,5 @@
 | 6차시 | 2024.01.16 |  수학  | <a href="https://www.acmicpc.net/problem/24313">알고리즘 수업 - 점근적 표기 1 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/27"> #27 </a>|
 | 7차시 | 2024.01.19 |  수학  | <a href="https://www.acmicpc.net/problem/1193">분수 찾기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/32"> #32 </a>|
 | 8차시 | 2024.01.19 |  이진 탐색  | <a href="https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC">부품 찾기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/37"> #37|
----
+| 9차시 | 2024.01.25 |  이진 탐색 | <a href="https://www.acmicpc.net/problem/2805">나무 자르기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/41"> #41 </a>|
+
