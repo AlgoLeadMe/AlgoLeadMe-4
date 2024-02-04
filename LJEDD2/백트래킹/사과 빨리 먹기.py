@@ -15,6 +15,7 @@ def dfs(x,y,apple, dist):
 
     if apple == 3:
         cnt = min(cnt,dist)
+        return 
 
     for d_x, d_y in zip(dx,dy):
         nx = x + d_x
