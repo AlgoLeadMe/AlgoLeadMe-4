@@ -41,7 +41,7 @@ for i in range(R):
                 break
         #이동 가능한 방향이 없는 경우
         if not direction:
-            # 현재 위치 l[ci][cj]를 '_'로 바꾼다.
+            # 현재 위치 list[ci][cj]를 '_'로 바꾼다.
             line[Ci][Cj]='_'
             #스택에서 좌표를 꺼내온다.
             try:
