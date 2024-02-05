@@ -1,38 +1,53 @@
+import sys
+input=sys.stdin.readline
 #행의 수인 R과 열의 수인 C를 입력받는다.
-R, C = map(int, input().split())
-#R개의 줄에 걸쳐 C개의 문자를 입력받아 2차원 리스트 arr에 저장한다.
-arr = [list(input()) for _ in range(R)]
-#x의 이동 방향을 나타내는 리스트를 작성한다.
-directx = [-1, 0, 1]
-#y의 이동 방향을 나타내는 리스트를 작성한다.
-directy = [1, 1, 1]
-#파이프라인이 연결된 경우를 카운트하기 위한 변수를 선언한다.
-cnt = 0
-#깊이 우선 탐색(DFS)을 수행하는 함수를 작성한다. 현재 위치를 (x, y)로 받는다.
-def dfs(x, y):
-    #cnt 변수를 전역 변수로 사용하기 위해 선언한다.
-    global cnt
-    #현재 위치가 마지막 열에 도달한 경우인 파이프라인이 연결된 경우이다.
-    #cnt를 1 증가시키고 True를 반환한다.
-    if y == C - 1:
-        cnt += 1
-        return True
-    #x의 이동거리와 y의 이동거리를 갱신하기 위해 directx와 directy를 순회한다.
-    for k in range(3):
-        #현재 위치에서 dx와 dy를 갱신한다.
-        dx, dy = x + directx[k], y + directy[k]
-        #갱신한 위치가 범위 내에 있고, 빈 공간인 경우에만 탐색을 진행한다.
-        if 0 <= dx < R and 0 <= dy < C and arr[dx][dy] == '.':
-        #갱신한 위치를 'x'로 바꿔준다.-> 해당 위치에 파이프라인이 연결된 경우이다.
-            arr[dx][dy] = 'x' 
-            #재귀적으로 다음 위치를 탐색한다.-> 다음 위치에서 파이프라인이 연결된 경우 True를 반환한다.
-            if dfs(dx, dy):
-                #모든 탐색을 진행했음에도 파이프라인이 연결되지 않은 경우 False를 반환한다.
-                return True
-    return False
-#각 행에 대해 dfs 함수를 첫 번째 열부터 시작해서 호출한다.
+R,C=map(int,input().split())
+#R개의 줄에 걸쳐 C개의 문자를 입력받아 2차원 리스트에 저장한다.
+line=[list(input().strip())for _ in range(R)]
+#이동방향을 나타내는 리스트를 작성한다.
+D=(-1,0,1)
+#스택을 초기화하고 파이프라인의 갯수를 세는 변수 count를 초기화한다. 
+stack,count=[],0
+#행의 수인 R만큼 반복한다.
 for i in range(R):
-    #i번째 행의 첫 번째 열에서부터 탐색을 시작한다.
-    dfs(i, 0)
-#파이프라인이 연결된 갯수를 출력한다.
-print(cnt)
+    #현재 행의 위치를 선언한다.
+    Ci=i
+    #현재 열의 위치를 선언한다. 초기값은 마지막 열인 C-1이다.
+    Cj=j=C-1
+    #무한루프를 반복한다.
+    while True:
+        #현재 열의 위치가 1 이하면 파이프라인의 끝에 도착했다는 뜻이다.
+        if Cj<1:
+            while stack:
+                #스택에 남아있는 좌표를 하나씩 꺼내면서 line 리스트에서 해당 위치를 'o'로 바꾼다.
+                line[Ci][Cj]='o'
+                Ci,Cj=stack.pop()
+            #현재 위치 ci와 cj도 'o'로 바꾸고, 파이프라인의 개수인 count를 증가시킨다.
+            line[Ci][Cj]='o'
+            count+=1
+            #반복문을 종료한다.
+            break
+        #이동 가능한 방향이 있는지를 나타내는 변수인 direction을 초기화한다.
+        direction=False
+        #line 리스트에서 이동 방향을 하나씩 가져온다.
+        for k in range(3):
+            #만약 이동한 위치가 행렬 범위 내에 있고, 해당 위치가 '.'인 경우에는 이동이 가능하다.
+            if 0<=Ci+D[k]<R and line[Ci+D[k]][Cj-1]=='.':
+                # direction를 True로 변경하고, 스택에 현재 위치를 추가한다.
+                direction=True
+                # Ci와 Cj를 갱신하여 이동한 위치로 업데이트한다.
+                stack.append((Ci,Cj))
+                Ci,Cj=Ci+D[k],Cj-1
+                break
+        #이동 가능한 방향이 없는 경우
+        if not direction:
+            # 현재 위치 l[ci][cj]를 '_'로 바꾼다.
+            line[Ci][Cj]='_'
+            #스택에서 좌표를 꺼내온다.
+            try:
+                Ci,Cj=stack.pop()
+            # 만약 스택이 비어있다면, 더 이상 이동할 수 없으므로 반복문을 종료한다.
+            except:
+                break
+            
+print(count)
