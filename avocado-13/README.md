@@ -12,4 +12,4 @@
 | 8차시 | 2024.01.22 |  이진 탐색  | <a href="https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EB%B6%80%ED%92%88-%EC%B0%BE%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC">부품 찾기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/37"> #37|
 | 9차시 | 2024.01.25 |  이진탐색  | <a href="https://www.acmicpc.net/problem/2805">나무 자르기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/41"> #41 </a>|
 | 10차시 | 2024.01.31 |  문자열 | <a href="https://www.acmicpc.net/problem/20920">영단어 암기는 괴로워 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/44"> #44 </a>|
----
+| 11차시 | 2024.02.03 |  브루트포스 알고리즘 | <a href="https://www.acmicpc.net/problem/2422">한윤정이 이탈리아에 가서 아이스크림을 사먹는데 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/49"> #49 </a>|
