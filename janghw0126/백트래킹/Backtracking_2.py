@@ -1,16 +1,19 @@
-N,M=map(int,input().split())
-lst=[]
+import sys
 
-def dfs(start):
-    #탈출 조건에 해당한다.
-    if len(lst)==M: 
-        print(''.join(map(str,lst)))
-        return
-    
-    for i in range(start,N+1):
-        if i not in lst:
-            lst.append(i)
-            dfs(i+1)
-            lst.pop()
+def dfs(c):
+  if len(s) == m:
+    for j in s:
+      print(j, end=" ")
+    print()
+    return
+  for i in range(c, n + 1):
+    if i not in s:
+      s.append(i)
+      dfs(i)
+      s.pop()
 
+input = sys.stdin.readline
+n, m = map(int, input().split())
+s = []
+a = []
 dfs(1)
