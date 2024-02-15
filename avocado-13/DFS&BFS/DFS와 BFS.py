@@ -33,7 +33,5 @@ for _ in range(m):
 dfs_visited = [False] * (n+1)
 bfs_visited = [False] * (n+1)
 
-# dfs와 bfs 함수 정의는 이전과 동일하게 사용합니다.
-
 print(*dfs(graph, start, dfs_visited)) # 리스트를 언패킹하여 출력
 print(*bfs(graph, start, bfs_visited)) # 리스트를 언패킹하여 출력
