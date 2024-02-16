@@ -17,4 +17,5 @@
 | 13차시 | 2024.2.7 |  DFS |  <a href= "https://www.acmicpc.net/problem/2606">바이러스</a> |[#57](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/57) |
 | 14차시 | 2024.2.12 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15649">N과 M (1)</a> |[#61](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/61) |
 | 15차시 | 2024.2.15 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15650">N과 M (2)</a> |[#65](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/65) |
+| 16차시 | 2024.2.18 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15654">N과 M (5)</a> |[#66](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/66) |
 ---
