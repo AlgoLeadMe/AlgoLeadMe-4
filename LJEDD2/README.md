@@ -14,4 +14,9 @@
 | 10차시 | 2024.01.28 |  DFS  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">모음 사전</a>   | [#43](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/43) |
 | 11차시 | 2024.01.31 |  그리디  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a>   | [#45](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/45) |
 | 12차시 | 2024.02.03 |  백트래킹  | <a href="https://www.acmicpc.net/problem/26170">사과 빨리 먹기</a>   | [#50](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/50) |
+| 13차시 | 2024.02.06 |  백트래킹  | <a href="https://www.acmicpc.net/problem/26169">세 번 이내에 사과를 먹자</a>   | [#54](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/54) |
+| 14차시 | 2024.02.09 |  다익스트라  | <a href="https://www.acmicpc.net/problem/13549">숨바꼭질 3</a>   | [#59](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/59) |
+| 15차시 | 2024.02.12 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/1793">타일링</a><br/><a href="https://www.acmicpc.net/problem/11727">2×n 타일링 2</a>  | [#62](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/62) |
+
+
 ---
