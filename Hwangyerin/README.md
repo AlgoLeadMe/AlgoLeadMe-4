@@ -15,3 +15,4 @@
 | 11차시 | 2024.02.01 |  수학 | <a href=https://www.acmicpc.net/problem/10870>피보나치 수 5</a>  | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/47) |
 | 12차시 | 2024.02.04 |  이분탐색 | <a href=https://www.acmicpc.net/problem/11478>서로 다른 부분 문자열의 개수</a>  | [#51](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/51) |
 | 13차시 | 2024.02.07 |  그리디 알고리즘 | <a href=https://www.acmicpc.net/problem/1789>수들의 합</a>  | [#55](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/55) |
+| 14차시 | 2024.02.15 |  그리디 알고리즘 | <a href=https://www.acmicpc.net/problem/1343>폴리오미노</a>  | [#63](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/63) |
