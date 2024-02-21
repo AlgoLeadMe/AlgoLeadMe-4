@@ -18,5 +18,6 @@
 | 14차시 | 2024.02.09 |  다익스트라  | <a href="https://www.acmicpc.net/problem/13549">숨바꼭질 3</a>   | [#59](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/59) |
 | 15차시 | 2024.02.12 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/1793">타일링</a><br/><a href="https://www.acmicpc.net/problem/11727">2×n 타일링 2</a>  | [#62](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/62) |
 | 16차시 | 2024.02.15 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/2133">타일 채우기</a>  | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/64) |
+| 17차시 | 2024.02.18 |  분할 정복  | <a href="https://www.acmicpc.net/problem/4779">칸토어 집합</a>  | [#70](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/70) |
 
 ---
