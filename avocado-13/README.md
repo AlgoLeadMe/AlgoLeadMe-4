@@ -17,4 +17,4 @@
 | 13차시 | 2024.02.09|  DFS&BFS | <a href="https://www.acmicpc.net/problem/1388">바닥 장식</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/58"> #58 </a>|
 | 14차시 | 2024.02.16 |  DFS&BFS | <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull67"> #67 </a>|
 | 15차시 | 2024.02.19 |  다이나믹 프로그래밍 | <a href="https://www.acmicpc.net/problem/20920">1로 만들기</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/71"> #71 </a>|
-| 16차시 | 2024.02.21 |
+| 16차시 | 2024.02.21 |  다이나믹 프로그래밍 | <a href="https://www.acmicpc.net/problem/2839">설탕 배달</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/74"> #74 </a>|
