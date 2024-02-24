@@ -20,5 +20,6 @@
 | 16차시 | 2024.02.15 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/2133">타일 채우기</a>  | [#64](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/64) |
 | 17차시 | 2024.02.18 |  분할 정복  | <a href="https://www.acmicpc.net/problem/4779">칸토어 집합</a>  | [#70](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/70) |
 | 18차시 | 2024.02.21 |  분할 정복  | <a href="https://www.acmicpc.net/problem/1780">종이의 개수</a>  | [#73](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/73) |
+| 19차시 | 2024.02.24 |  구현  | <a href="https://www.acmicpc.net/problem/16919">봄버맨 2</a>  | [#76](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/76) |
 
 ---
