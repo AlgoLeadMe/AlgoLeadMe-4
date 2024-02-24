@@ -1,6 +1,3 @@
-from collections import deque
-bombs = deque([])
-
 def OOB(x,y):
     return not(0 <= x < r and 0 <= y < c)
 
@@ -18,7 +15,7 @@ def ExplodeBomb():
 
     #게임진행
     while bombs:
-        x, y = bombs.popleft()
+        x, y = bombs.pop()
         board[x][y] = '.'
 
         for d_x, d_y in zip(dx, dy):
@@ -38,6 +35,8 @@ dx, dy = [1,0,-1,0],[0,1,0,-1]
 # 가장 처음 1초는 입력한 것 (= 현재 상태) 출력
 # 2초부터 게임 시작을 위해 -1
 time -= 1
+bombs = []
+
 
 while time:
     # 여러 예제를 직접 그리다보면
