@@ -13,3 +13,9 @@
 | 9차시 | 2024.01.25 |  이진탐색  | <a href="https://www.acmicpc.net/problem/2805">나무 자르기 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/41"> #41 </a>|
 | 10차시 | 2024.01.31 |  문자열 | <a href="https://www.acmicpc.net/problem/20920">영단어 암기는 괴로워 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/44"> #44 </a>|
 | 11차시 | 2024.02.03 |  브루트포스 알고리즘 | <a href="https://www.acmicpc.net/problem/2422">한윤정이 이탈리아에 가서 아이스크림을 사먹는데 </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/49"> #49 </a>|
+| 12차시 | 2024.02.04 |  재귀함수 | <a href="https://www.acmicpc.net/problem/7113">Rectangle </a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/52"> #52 </a>|
+| 13차시 | 2024.02.09|  DFS&BFS | <a href="https://www.acmicpc.net/problem/1388">바닥 장식</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/58"> #58 </a>|
+| 14차시 | 2024.02.16 |  DFS&BFS | <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull67"> #67 </a>|
+| 15차시 | 2024.02.19 |  다이나믹 프로그래밍 | <a href="https://www.acmicpc.net/problem/20920">1로 만들기</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/71"> #71 </a>|
+| 16차시 | 2024.02.21 |  다이나믹 프로그래밍 | <a href="https://www.acmicpc.net/problem/2839">설탕 배달</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/74"> #74 </a>|
+| 17차시 | 2024.02.24 |  스택 | <a href="https://www.acmicpc.net/problem/24511">queuestack</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/78"> #78 </a>|
