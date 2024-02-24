@@ -19,4 +19,5 @@
 | 15차시 | 2024.2.15 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15650">N과 M (2)</a> |[#65](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/65) |
 | 16차시 | 2024.2.18 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15654">N과 M (5)</a> |[#66](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/66) |
 | 17차시 | 2024.2.21 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15651">N과 M (3)</a> |[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/72) |
+| 18차시 | 2024.2.24 |  Greedy |  <a href= "https://www.acmicpc.net/problem/1541">잃어버린 괄호</a> |[#77](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/77) |
 ---
