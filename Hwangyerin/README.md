@@ -18,3 +18,4 @@
 | 14차시 | 2024.02.15 |  그리디 알고리즘 | <a href=https://www.acmicpc.net/problem/1343>폴리오미노</a>  | [#63](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/63) |
 | 15차시 | 2024.02.17 |  그리디 알고리즘 | <a href=https://www.acmicpc.net/problem/1758>알바생 강호</a>  | [#68](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/68) |
 | 16차시 | 2024.02.18 |  그리디 알고리즘 | <a href=https://www.acmicpc.net/problem/13305>주유소</a>  | [#69](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/69) |
+| 17차시 | 2024.02.24 |  덱 | <a href=https://www.acmicpc.net/problem/2346>풍선 터뜨리기</a>  | [#75](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/75) |
