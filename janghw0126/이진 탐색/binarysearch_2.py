@@ -1,4 +1,4 @@
-# 입력
+# 자연수 N과 N개의 정수를 입력받을 A 리스트, 자연수 M과 M개의 수들을 입력받을 arr리스트를 선언한다.
 N = int(input())
 A = list(map(int, input().split()))
 M = int(input())
