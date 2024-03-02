@@ -20,7 +20,7 @@ for num in arr_list:
         mid = (lt + rt) // 2
         # 목표값인 num이 A[mid]값과 같다면 즉, 목표값 존재하면 해당되는 문이다.
         if num == A[mid]:
-            # isExist True를 변경하고 1을 출력하면서 반복문을 탈출한다.
+            # isExist를 True로 변경하고 1을 출력하면서 반복문을 탈출한다.
             isExist = True
             print(1)		
             break		
