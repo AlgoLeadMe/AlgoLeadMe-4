@@ -22,4 +22,5 @@
 | 18차시 | 2024.02.21 |  분할 정복  | <a href="https://www.acmicpc.net/problem/1780">종이의 개수</a>  | [#73](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/73) |
 | 19차시 | 2024.02.24 |  구현  | <a href="https://www.acmicpc.net/problem/16919">봄버맨 2</a>  | [#76](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/76) |
 | 20차시 | 2024.02.27 |  BFS  | <a href="https://www.acmicpc.net/problem/6593">상범 빌딩 2</a>  | [#80](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/80) |
+| 21차시 | 2024.03.01 |  정수론  | <a href="https://www.acmicpc.net/problem/21920">서로소 평균 2</a>  | [#83](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/83) |
 ---
