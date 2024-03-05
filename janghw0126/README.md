@@ -21,4 +21,5 @@
 | 17차시 | 2024.2.21 |  Backtracking |  <a href= "https://www.acmicpc.net/problem/15651">N과 M (3)</a> |[#72](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/72) |
 | 18차시 | 2024.2.24 |  Greedy |  <a href= "https://www.acmicpc.net/problem/1541">잃어버린 괄호</a> |[#77](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/77) |
 | 19차시 | 2024.2.27 |  Binary Search |  <a href= "https://www.acmicpc.net/problem/11663">선분 위의 점</a> |[#79](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/79) |
+| 20차시 | 2024.3.2 |  Binary Search |  <a href= "https://www.acmicpc.net/problem/1920">수 찾기</a> |[#85](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/85) |
 ---
