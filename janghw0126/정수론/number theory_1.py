@@ -17,7 +17,7 @@ for i in range(1, MAX + 1):
 iter = int(input())
 ans = []
 for k in range(iter):
-    #입력으로 들어오는 iter 횟수만큼 반복문을 실행하면서 n 값을 입력받는다.
+    # 입력으로 들어오는 iter 횟수만큼 반복문을 실행하면서 n 값을 입력받는다.
     n = int(input())
     # s[n] 값을 ans 리스트에 추가한다.
     ans.append(s[n])
