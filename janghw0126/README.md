@@ -23,5 +23,5 @@
 | 19차시 | 2024.2.27 |  이진 탐색 |  <a href= "https://www.acmicpc.net/problem/11663">선분 위의 점</a> |[#79](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/79) |
 | 20차시 | 2024.3.2 |  이진 탐색 |  <a href= "https://www.acmicpc.net/problem/1920">수 찾기</a> |[#85](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/85) |
 | 21차시 | 2024.3.5 |  정수론 |  <a href= "https://www.acmicpc.net/problem/17425">약수의 합</a> |[#89](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/89) |
-| 22차시 | 2024.3.8 | 분할 정복 |  <a href= "https://www.acmicpc.net/problem/17425">약수의 합</a> |[#91](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/91) |
+| 22차시 | 2024.3.8 | 분할 정복 |  <a href= "https://www.acmicpc.net/problem/1780">종이의 개수</a> |[#91](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/91) |
 ---
