@@ -15,6 +15,6 @@ psum = [0] * (N+1)
 for i in range(1,N+1):
     psum[i] = psum[i-1] + A[i]
 
-# 누적합
+# 누적합 구함 
 for x,y in cases:
     print(psum[y] - psum[x-1])
