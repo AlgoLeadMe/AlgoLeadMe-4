@@ -1,4 +1,4 @@
-## ✏️ 기록   
+## ✏️ 기록
 
 | 차시 |    날짜    | 문제유형 | 링크 |                                  풀이                                   |
 |:----:|:---------:|:----:|:-----:|:---------------------------------------------------------------------:|
@@ -25,4 +25,5 @@
 | 21차시 | 2024.03.01 |  정수론  | <a href="https://www.acmicpc.net/problem/21920">서로소 평균 2</a>  | [#83](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/83) |
 | 22차시 | 2024.03.04 |  수학(애드 혹)  | <a href="https://www.acmicpc.net/problem/28419">더하기 </a>  | [#88](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/88) |
 | 23차시 | 2024.03.07 |  누적합  | <a href="https://www.acmicpc.net/problem/11441">합 구하기</a>  | [#93](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/93) |
+
 ---
