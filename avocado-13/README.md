@@ -23,3 +23,4 @@
 | 19차시 | 2024.03.02 |  DFS&BFS | <a href="https://www.acmicpc.net/problem/2667">단지번호붙이기</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/84"> #84 </a>|
 | 19차시 | 2024.03.05 |  누적합 | <a href="https://www.acmicpc.net/problem/16139">인간-컴퓨터상호작용</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/90"> #90</a>|
 
+| 23차시 | 2024.03.16 |  문자열 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">신규 아이디 추천</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/102"> #102</a>|
