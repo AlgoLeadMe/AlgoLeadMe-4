@@ -26,4 +26,5 @@
 | 22차시 | 2024.03.04 |  수학(애드 혹)  | <a href="https://www.acmicpc.net/problem/28419">더하기 </a>  | [#88](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/88) |
 | 23차시 | 2024.03.07 |  누적합  | <a href="https://www.acmicpc.net/problem/11441">합 구하기</a>  | [#93](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/93) |
 | 24차시 | 2024.03.10 |  BFS  | <a href="https://www.acmicpc.net/problem/16928">뱀과 사다리 게임</a>  | [#95](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/95) |
+| 25차시 | 2024.03.13 |  BFS  | <a href="https://www.acmicpc.net/problem/15558">점프 게임</a>  | [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/98) |
 ---
