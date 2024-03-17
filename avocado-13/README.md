@@ -21,5 +21,6 @@
 | 17차시 | 2024.02.24 |  스택 | <a href="https://www.acmicpc.net/problem/24511">queuestack</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/78"> #78 </a>|
 | 18차시 | 2024.02.28 |  DFS&BFS | <a href="https://www.acmicpc.net/problem/1012">유기농배추</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/82"> #82 </a>|
 | 19차시 | 2024.03.02 |  DFS&BFS | <a href="https://www.acmicpc.net/problem/2667">단지번호붙이기</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/84"> #84 </a>|
-| 18차시 | 2024.02.28 |  DFS&BFS | <a href="https://www.acmicpc.net/problem/1012">유기농 배추</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/82"> #82 </a>|
+| 20차시 | 2024.03.05 |  누적합 | <a href="https://www.acmicpc.net/problem/16139">인간-컴퓨터상호작용</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/90"> #90</a>|
+| 21차시 | 2024.03.10 |  큐 | <a href="https://www.acmicpc.net/problem/6119">Cow line</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/94"> #94 </a>|
 | 22차시 | 2024.03.13 | 큐  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능 개발</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/96"> #96 </a>|
