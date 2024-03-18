@@ -27,5 +27,6 @@
 | 22차시 | 2024.3.13 | 백트래킹 |  <a href= "https://www.acmicpc.net/problem/6603">로또</a> |[#97](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/97) |
 | 23차시 | 2024.3.15 | 누적합 |  <a href= "https://www.acmicpc.net/problem/20438">출석체크</a> |[#101](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/101) |
 | 23차시 | 2024.3.15 | 누적합 |  <a href= "https://www.acmicpc.net/problem/20438">출석체크</a> |[#101](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/101) |
+| 23차시 | 2024.3.15 | 누적합 |  <a href= "https://www.acmicpc.net/problem/20438">출석체크</a> |[#101](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/101) |
 
 ---
