@@ -14,8 +14,6 @@ print(ans)
 
 
 
-print(ans)
-
 # 다른 사람의 코드
 # import sys
 # input=sys.stdin.readline
