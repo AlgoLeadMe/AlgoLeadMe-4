@@ -24,3 +24,4 @@
 | 20차시 | 2024.03.05 |  누적합 | <a href="https://www.acmicpc.net/problem/16139">인간-컴퓨터상호작용</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/90"> #90</a>|
 | 21차시 | 2024.03.10 |  큐 | <a href="https://www.acmicpc.net/problem/6119">Cow line</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/94"> #94 </a>|
 | 22차시 | 2024.03.13 | 큐  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">기능 개발</a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/96"> #96 </a>|
+| 24차시 | 2024.03.23 | 그리디  | <a href="https://www.acmicpc.net/problem/25045">비즈 마켓/a> |<a href="https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/107"> #107 </a>|
