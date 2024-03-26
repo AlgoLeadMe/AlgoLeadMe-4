@@ -26,4 +26,5 @@
 | 22차시 | 2024.3.8 | 분할 정복 |  <a href= "https://www.acmicpc.net/problem/1780">종이의 개수</a> |[#91](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/91) |
 | 23차시 | 2024.3.13 | 백트래킹 |  <a href= "https://www.acmicpc.net/problem/6603">로또</a> |[#97](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/97) |
 | 24차시 | 2024.3.15 | 누적합 |  <a href= "https://www.acmicpc.net/problem/20438">출석체크</a> |[#101](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/101) |
+| 25차시 | 2024.3.26 | 녹색 옷 입은 애가 젤다지? |  <a href= "https://www.acmicpc.net/problem/10191">출석체크</a> |[#108](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/108) |
 ---
