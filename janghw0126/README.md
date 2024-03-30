@@ -27,4 +27,5 @@
 | 23차시 | 2024.3.13 | 백트래킹 |  <a href= "https://www.acmicpc.net/problem/6603">로또</a> |[#97](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/97) |
 | 24차시 | 2024.3.15 | 누적합 |  <a href= "https://www.acmicpc.net/problem/20438">출석체크</a> |[#101](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/101) |
 | 25차시 | 2024.3.26 | 다익스트라 |  <a href= "https://www.acmicpc.net/problem/10191">녹색 옷 입은 애가 젤다지?</a> |[#108](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/108) |
+| 26차시 | 2024.3.30 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/14501">녹색 옷 입은 애가 젤다지?</a> |[#110](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/110) |
 ---
