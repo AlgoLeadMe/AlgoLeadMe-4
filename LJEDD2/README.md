@@ -31,5 +31,6 @@
 | 27차시 | 2024.03.19 |  누적합  | <a href="https://www.acmicpc.net/problem/25682">체스판 다시 칠하기2</a> | [#105](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/105) |
 | 28차시 | 2024.03.22 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1446">지름길</a> | [#106](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/106) |
 | 29차시 | 2024.03.25 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/9656">돌 게임 2</a> | [#109](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/109) |
+| 30차시 | 2024.03.28 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/15489">파스칼 삼각형 2</a> | [#111](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/111) |
 
 ---
