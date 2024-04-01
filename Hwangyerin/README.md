@@ -25,3 +25,4 @@
 | 21차시 | 2024.03.08 |  브루트포스 알고리즘 | <a href=https://www.acmicpc.net/problem/2961>도영이가 만든 맛있는 음식</a>  | [#92](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/92) |
 | 22차시 | 2024.03.13 |  문자열 | <a href=https://www.acmicpc.net/problem/1213>팰린드롬 만들기</a>  | [#99](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/99) |
 | 23차시 | 2024.03.15 |  구현 | <a href=https://www.acmicpc.net/problem/18111>마인크래프트</a>  | [#100](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/100) |
+| 24차시 | 2024.03.15 |  구현 | <a href=https://www.acmicpc.net/problem/13414>수강신청</a>  | [#104](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/104) |
