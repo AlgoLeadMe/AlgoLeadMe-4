@@ -28,4 +28,5 @@
 | 24차시 | 2024.3.15 | 누적합 |  <a href= "https://www.acmicpc.net/problem/20438">출석체크</a> |[#101](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/101) |
 | 25차시 | 2024.3.26 | 다익스트라 |  <a href= "https://www.acmicpc.net/problem/10191">녹색 옷 입은 애가 젤다지?</a> |[#108](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/108) |
 | 26차시 | 2024.3.30 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/14501">퇴사</a> |[#110](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/110) |
+| 27차시 | 2024.4.3 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/16198">에너지 모으기</a> |[#115](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/115) |
 ---
