@@ -63,7 +63,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="http://github.com/Dolchae"><img src="https://avatars.githubusercontent.com/u/144594140?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="http://github.com/avocado-13"><img src="https://avatars.githubusercontent.com/u/144594140?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center">24-01-01 ~<br> 24-04-28</a></td>
