@@ -50,16 +50,25 @@
     <td align="center"><a href="https://github.com/LJEDD2"><img src="https://avatars.githubusercontent.com/u/78216102?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/Hwangyerin"><img src="https://avatars.githubusercontent.com/u/50723984?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/janghw0126"><img src="https://avatars.githubusercontent.com/u/127714800?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/avocado-13"><img src="https://avatars.githubusercontent.com/u/144594140?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/LJEDD2" title="Code">LJEDD2</a></td>
     <td align="center"><a href="https://github.com/Hwangyerin" title="Code">Hwangyerin</a></td>
     <td align="center"><a href="https://github.com/janghw0126" title="Code">janghw0126</a></td>
-    <td align="center"><a href="https://github.com/avocado-13" title="Code">avocado-13</a></td>
   </tr>
 </table>
+<br><br>
 
+**🏆해당 레포지토리 스터디 수료자**
+
+<table>
+  <tr>
+    <td align="center"><a href="http://github.com/Dolchae"><img src="https://avatars.githubusercontent.com/u/144594140?v=4" width="100px;" alt=""/>
+  </tr>
+    <tr>
+    <td align="center">24-01-01 ~<br> 24-04-28</a></td>
+  </tr>
+</table>
 <br><br>
 
 ## 🤝 규칙
