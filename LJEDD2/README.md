@@ -1,4 +1,4 @@
-## ✏️ 기록   
+## ✏️ 기록
 
 | 차시 |    날짜    | 문제유형 | 링크 |                                  풀이                                   |
 |:----:|:---------:|:----:|:-----:|:---------------------------------------------------------------------:|
@@ -24,4 +24,12 @@
 | 20차시 | 2024.02.27 |  BFS  | <a href="https://www.acmicpc.net/problem/6593">상범 빌딩 2</a>  | [#80](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/80) |
 | 21차시 | 2024.03.01 |  정수론  | <a href="https://www.acmicpc.net/problem/21920">서로소 평균 2</a>  | [#83](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/83) |
 | 22차시 | 2024.03.04 |  수학(애드 혹)  | <a href="https://www.acmicpc.net/problem/28419">더하기 </a>  | [#88](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/88) |
+| 23차시 | 2024.03.07 |  누적합  | <a href="https://www.acmicpc.net/problem/11441">합 구하기</a>  | [#93](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/93) |
+| 24차시 | 2024.03.10 |  BFS  | <a href="https://www.acmicpc.net/problem/16928">뱀과 사다리 게임</a>  | [#95](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/95) |
+| 25차시 | 2024.03.13 |  BFS  | <a href="https://www.acmicpc.net/problem/15558">점프 게임</a>  | [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/98) |
+| 26차시 | 2024.03.16 |  플로이드-워셜  | <a href="https://www.acmicpc.net/problem/11404">플로이드</a> | [#103](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/103) |
+| 27차시 | 2024.03.19 |  누적합  | <a href="https://www.acmicpc.net/problem/25682">체스판 다시 칠하기2</a> | [#105](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/105) |
+| 28차시 | 2024.03.22 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1446">지름길</a> | [#106](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/106) |
+| 29차시 | 2024.03.25 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/9656">돌 게임 2</a> | [#109](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/109) |
+
 ---
