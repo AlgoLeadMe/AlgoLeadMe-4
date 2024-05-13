@@ -1,7 +1,7 @@
 ## ✏️ 기록
 
 |  차시  |    날짜    |      문제유형       |                                          링크                                           |                            풀이                             |
-| :----: | :--------: | :-----------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
+| :----: | :--------: | :-----------------: | :-------------------------------------------------------------------------------------: | :---------------------------------------------------------: | --- |
 | 1차시  | 2024.01.01 |        스택         | <a href=https://school.programmers.co.kr/learn/courses/30/lessons/12909>올바른 괄호</a> |   [#3](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/3)   |
 | 2차시  | 2024.01.04 |         큐          |             <a href=https://www.acmicpc.net/problem/1158>요세푸스 문제</a>              |  [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/12)  |
 | 3차시  | 2024.01.07 |        스택         |                <a href=https://www.acmicpc.net/problem/25556>포스택</a>                 |  [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/14)  |
@@ -27,3 +27,4 @@
 | 23차시 | 2024.03.15 |        구현         |             <a href=https://www.acmicpc.net/problem/18111>마인크래프트</a>              | [#100](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/100) |
 | 24차시 | 2024.03.15 |        구현         |               <a href=https://www.acmicpc.net/problem/13414>수강신청</a>                | [#104](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/104) |
 | 25차시 | 2024.04.01 |        트리         |             <a href=https://www.acmicpc.net/problem/9372>상근이의 여행</a>              | [#112](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/112) |
+|        |            |                     |                                                                                         |                                                             |     |
