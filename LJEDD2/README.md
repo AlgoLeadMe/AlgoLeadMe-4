@@ -33,4 +33,6 @@
 | 29차시 | 2024.03.25 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/9656">돌 게임 2</a> | [#109](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/109) |
 | 30차시 | 2024.03.28 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/15489">파스칼 삼각형 2</a>|[#111](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/111) |
 | 31차시 | 2024.03.31 |  BFS  | <a href="https://www.acmicpc.net/problem/31575"> 도시와 비트코인 </a> | [#113](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/113) |
+| 32차시 | 2024.04.03 |  투 포인터  | <a href="https://www.acmicpc.net/problem/11728"> 배열 합치기 </a> | [#116](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/116) |
+| 33차시 | 2024.04.06 |  누적합  | <a href="https://www.acmicpc.net/problem/13900"> 순서쌍의 곱의 합 </a> | [#118](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/118) |
 ---
