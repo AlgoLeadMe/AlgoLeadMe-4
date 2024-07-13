@@ -28,5 +28,11 @@
 | 24차시 | 2024.03.10 |  BFS  | <a href="https://www.acmicpc.net/problem/16928">뱀과 사다리 게임</a>  | [#95](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/95) |
 | 25차시 | 2024.03.13 |  BFS  | <a href="https://www.acmicpc.net/problem/15558">점프 게임</a>  | [#98](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/98) |
 | 26차시 | 2024.03.16 |  플로이드-워셜  | <a href="https://www.acmicpc.net/problem/11404">플로이드</a> | [#103](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/103) |
-
+| 27차시 | 2024.03.19 |  누적합  | <a href="https://www.acmicpc.net/problem/25682">체스판 다시 칠하기2</a> | [#105](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/105) |
+| 28차시 | 2024.03.22 |  다익스트라  | <a href="https://www.acmicpc.net/problem/1446">지름길</a> | [#106](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/106) |
+| 29차시 | 2024.03.25 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/9656">돌 게임 2</a> | [#109](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/109) |
+| 30차시 | 2024.03.28 |  다이나믹 프로그래밍  | <a href="https://www.acmicpc.net/problem/15489">파스칼 삼각형 2</a>|[#111](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/111) |
+| 31차시 | 2024.03.31 |  BFS  | <a href="https://www.acmicpc.net/problem/31575"> 도시와 비트코인 </a> | [#113](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/113) |
+| 32차시 | 2024.04.03 |  투 포인터  | <a href="https://www.acmicpc.net/problem/11728"> 배열 합치기 </a> | [#116](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/116) |
+| 33차시 | 2024.04.06 |  누적합  | <a href="https://www.acmicpc.net/problem/13900"> 순서쌍의 곱의 합 </a> | [#118](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/118) |
 ---
