@@ -48,13 +48,15 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/LJEDD2"><img src="https://avatars.githubusercontent.com/u/78216102?v=4" width="100px;" alt=""/>
-    <td align="center"><a href="https://github.com/Hwangyerin"><img src="https://avatars.githubusercontent.com/u/50723984?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/janghw0126"><img src="https://avatars.githubusercontent.com/u/127714800?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/wonjunYou"><img src="https://avatars.githubusercontent.com/u/59856002?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/jung0115"><img src="https://avatars.githubusercontent.com/u/76805879?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center"><a href="https://github.com/LJEDD2" title="Code">LJEDD2</a></td>
-    <td align="center"><a href="https://github.com/Hwangyerin" title="Code">Hwangyerin</a></td>
     <td align="center"><a href="https://github.com/janghw0126" title="Code">janghw0126</a></td>
+    <td align="center"><a href="https://github.com/wonjunYou" title="Code">wonjunYou</a></td>
+    <td align="center"><a href="https://github.com/jung0115" title="Code">jung0115</a></td>
   </tr>
 </table>
 <br><br>
@@ -64,16 +66,18 @@
 <table>
   <tr>
     <td align="center"><a href="http://github.com/avocado-13"><img src="https://avatars.githubusercontent.com/u/144594140?v=4" width="100px;" alt=""/>
+    <td align="center"><a href="https://github.com/Hwangyerin"><img src="https://avatars.githubusercontent.com/u/50723984?v=4" width="100px;" alt=""/>
   </tr>
     <tr>
     <td align="center">24-01-01 ~<br> 24-04-28</a></td>
+    <td align="center">24-01-01 ~<br> 24-04-01</a></td>
   </tr>
 </table>
 <br><br>
 
 ## 🤝 규칙
 
-- 스터디를 시작한 날짜로 부터 **2일에 1 문제**씩 제출.
+- 스터디를 시작한 날짜로 부터 **4일에 1 문제**씩 제출.
 
   **스터디 시작 날짜 : 2024-01-01**
 
