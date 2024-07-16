@@ -22,12 +22,12 @@ fun main() {
   // ✅ Solve
   // [몇 번째 동전까지 사용했는지][만드는 금액]
   var dp = Array(K + 1, {Array(T+1, {0})})
-  for(i: Int in 1..K) { // 현재 사용하려는 동전 번호
-    dp[i - 1][0] = 1
-    for(money: Int in 1..T) { // 만드는 금액
-      for(cnt: Int in 0..coins[i - 1][1]) { // i번째 동전의 개수
-        if(money < coins[i - 1][0] * cnt) break
-        dp[i][money] += dp[i - 1][money - coins[i - 1][0] * cnt]
+  for(k: Int in 1..K) { // 현재 사용하려는 동전 번호
+    dp[k - 1][0] = 1
+    for(t: Int in 1..T) { // 만드는 금액
+      for(n: Int in 0..coins[k - 1][1]) { // k번째 동전의 개수
+        if(t < coins[k - 1][0] * n) break
+        dp[k][t] += dp[k - 1][t - coins[k - 1][0] * n]
       }
     }
   }
