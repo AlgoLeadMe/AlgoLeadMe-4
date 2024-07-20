@@ -1,25 +1,25 @@
 import sys
-N = int(sys.stdin.readline())
+input = sys.stdin.readline
 
-circle, result = [0]*N, [0]*N
+# 학생의 수 N 입력
+N = int(input())
+
+# 학생들이 각각 가지고 있는 숫자를 리스트로 선언
+num = [int(input()) for _ in range(N)]
+
+# 각 숫자의 등장 횟수를 세기 위한 딕셔너리
+count = [0 for _ in range(max(num)+1)]
+for c in num:
+    count[c]+=1
+
+# 학생들이 쓴 숫자들에 대해 약수로 갱신
 for i in range(N):
-    circle[i] = int(sys.stdin.readline())
-
-matrix = [0 for _ in range(max(circle)+1)]
-for c in circle:
-    matrix[c]+=1
-
-for n in range(N):
-    k = 1
-    while (k*k <= circle[n]):
-        if circle[n] % k == 0: # k가 circle[n]의 약수이면 다음 2가지 경우로 나눠 생각
-            if k*k != circle[n]: # 1) circle[n]과 k**2이 같지 않을 때 : 약수 k와 circle[n]//k의 개수를 더한다. 
-                result[n] += matrix[k] + matrix[circle[n]//k]
-            else: # 2) circle[n]과 k**2이 같을 때 : k의 제곱과 같으면 약수는 k 하나이므로 matrix[k] 하나만 더한다. 
-                result[n] += matrix[k]
-        k += 1
-
-answer = ""
-for r in result:
-    answer += str(r-1)+"\n" # -1은 while 문에서 자기 자신을 배수로 취급하여 센 것을 빼기 위해서이다. 
-print(answer)
+    x = num[i]
+    result = 0
+    for j in range(1, int(x ** 0.5) + 1):       
+        if x % j == 0:
+            if j*j!=x: 
+                result += count[j] + count[x//j]
+            else:
+                result += count[j]   
+    print(result-1)
