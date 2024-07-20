@@ -1,4 +1,4 @@
-// 2차시 2024.07.20.토 : 백준 - 우주탐사선(17182)
+// 2차시 2024.07.20.토 : 백준 - 우주탐사선(17182) - 시간 초과
 import java.io.BufferedReader
 import java.io.InputStreamReader
 import java.util.StringTokenizer
