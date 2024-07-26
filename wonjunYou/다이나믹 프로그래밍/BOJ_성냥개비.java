@@ -17,7 +17,7 @@ public class Main {
         Arrays.fill(dp, Long.MAX_VALUE);
 
         init();
-        calculateMaxNumber();
+        calculateMinNumber();
 
         for (int i = 0; i < t; i++) {
             int n = Integer.parseInt(br.readLine());
@@ -40,7 +40,7 @@ public class Main {
         }
     }
 
-    private static void calculateMaxNumber() {
+    private static void calculateMinNumber() {
         for (int i = 9; i < 101; i++) {
             for (int j = 2; j <= 7; j++) {
                 String number = dp[i - j] + String.valueOf(numbers[j - 2]);
