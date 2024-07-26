@@ -32,4 +32,5 @@
 | 28차시 | 2024.4.12 | 정렬 |  <a href= "https://www.acmicpc.net/problem/2751">수 정렬하기 2</a> |[#117](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/117) |
 ||||||
 | 1차시 | 2024.7.17 | 수학 |  <a href= "https://www.acmicpc.net/problem/1241">머리 톡톡</a> |[#124](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/124) |
+| 2차시 | 2024.7.21 | 그리디 |  <a href= "https://www.acmicpc.net/problem/1931">회의실 배정</a> |[#127](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/127) |
 ---
