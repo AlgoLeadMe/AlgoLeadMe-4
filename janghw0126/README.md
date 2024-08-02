@@ -1,5 +1,6 @@
 ## ✏️ 기록   
 
+### 2024-1
 | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
 |:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2024.1.1 |  해시  |  <a href= "https://school.programmers.co.kr/learn/courses/30/lessons/42576">완주하지 못한 선수</a> |[#4](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/4) |
@@ -30,7 +31,11 @@
 | 26차시 | 2024.3.30 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/14501">퇴사</a> |[#110](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/110) |
 | 27차시 | 2024.4.3 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/16198">에너지 모으기</a> |[#115](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/115) |
 | 28차시 | 2024.4.12 | 정렬 |  <a href= "https://www.acmicpc.net/problem/2751">수 정렬하기 2</a> |[#117](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/117) |
-||||||
+
+### 2024-2
+| 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
+|:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2024.7.17 | 수학 |  <a href= "https://www.acmicpc.net/problem/1241">머리 톡톡</a> |[#124](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/124) |
 | 2차시 | 2024.7.21 | 그리디 |  <a href= "https://www.acmicpc.net/problem/1931">회의실 배정</a> |[#127](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/127) |
+| 3차시 | 2024.7.24 | 덱 |  <a href= "https://www.acmicpc.net/problem/5430">AC</a> |[#130](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/130) |
 ---
