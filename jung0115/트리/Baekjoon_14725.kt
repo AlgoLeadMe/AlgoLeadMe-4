@@ -48,7 +48,7 @@ fun main() {
 
   root.nodes.sortBy{ it.feed } // 자식 노드를 먹이 이름 기준으로 오름차순 정렬
   for(node in root.nodes) {
-    tree(node, "") // depth 0
+    tree(node, "") // depth 1
   }
 
   print(answer)
