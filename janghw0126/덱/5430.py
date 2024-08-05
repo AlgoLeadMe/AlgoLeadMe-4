@@ -36,7 +36,7 @@ for _ in range(t):
             else:
                 # 정상 상태에서는 덱의 앞에서 제거
                 dq.popleft()
-    
+ 
     if error_occurred:
         continue  # 에러가 발생하면 다음 테스트 케이스로 넘어감
 
