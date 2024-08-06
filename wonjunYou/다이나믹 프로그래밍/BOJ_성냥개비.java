@@ -43,7 +43,7 @@ public class Main {
     private static void calculateMinNumber() {
         for (int i = 9; i < 101; i++) {
             for (int j = 2; j <= 7; j++) {
-                String number = dp[i - j] + String.valueOf(numbers[j - 2]);
+                Long number = dp[i - j] + String.valueOf(numbers[j - 2]);
                 dp[i] = Math.min(Long.parseLong(number), dp[i]);
             }
         }
