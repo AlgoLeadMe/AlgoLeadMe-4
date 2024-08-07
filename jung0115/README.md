@@ -8,4 +8,4 @@
 | 4차시 | 2024.07.27.토 | 트리 / 트라이 | [개미굴(14725)](https://www.acmicpc.net/problem/14725) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/134 |
 | 5차시 | 2024.07.31.수 | 트리 / MST | [1251. [S/W 문제해결 응용] 4일차 - 하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/137 |
 | 6차시 | 2024.08.03.토 | 트리 / 트라이 | [디스크 트리(7432)](https://www.acmicpc.net/problem/7432) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/142 |
-| 7차시 | 2024.08.07.수 | 다익스트라 | [지형이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) | |
+| 7차시 | 2024.08.07.수 | 다익스트라 | [지형이동](https://school.programmers.co.kr/learn/courses/30/lessons/62050) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/144 |
