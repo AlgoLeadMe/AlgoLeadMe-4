@@ -11,4 +11,4 @@
 | 7차시 | 2024.08.07.수 | 다익스트라 | [지형 이동(Lv.4)](https://school.programmers.co.kr/learn/courses/30/lessons/62050) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/144 |
 | 8차시 | 2024.08.19.월 | 이분 탐색 | [입국심사(Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/148 |
 | 9차시 | 2024.08.27.화 | 수학 | [음식 평론가(1188)](https://www.acmicpc.net/problem/1188) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/150 |
-| 10차시 | 2024.08.28.수 | 브루트포스 | [램프(1034)](https://www.acmicpc.net/problem/1034) | |
+| 10차시 | 2024.08.28.수 | 브루트포스 | [램프(1034)](https://www.acmicpc.net/problem/1034) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/151 |
