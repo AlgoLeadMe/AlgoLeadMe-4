@@ -7,7 +7,7 @@ indegree = [0] * (n + 1) # 진입 차수 저장할 리스트
 
 for i in range(m):
     s,e = map(int, input().split())
-    [s].append(e)
+    graph[s].append(e) # zz
     indegree[e] += 1 # 진입 차수 데이터를 저장
 
 # B를 하기 위해 A라는 작업을 먼저 해야 하는 구조가 있을 때, 
