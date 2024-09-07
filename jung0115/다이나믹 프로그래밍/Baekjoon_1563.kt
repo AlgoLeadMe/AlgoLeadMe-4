@@ -33,5 +33,5 @@ fun main() {
     }
   }
 
-  print(answer)
+  print(answer % 1000000)
 }
