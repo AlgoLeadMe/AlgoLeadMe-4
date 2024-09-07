@@ -40,4 +40,5 @@
 | 2차시 | 2024.7.21 | 그리디 |  <a href= "https://www.acmicpc.net/problem/1931">회의실 배정</a> |[#127](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/127) |
 | 3차시 | 2024.7.24 | 덱 |  <a href= "https://www.acmicpc.net/problem/5430">AC</a> |[#130](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/130) |
 | 4차시 | 2024.7.28 | 분할 정복 |  <a href= "https://www.acmicpc.net/problem/1074">Z</a> |[#135](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/135) |
+| 5차시 | 2024.7.31 | 위상정렬 |  <a href= "https://www.acmicpc.net/problem/2056">작업</a> |[#138](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/138) |
 ---
