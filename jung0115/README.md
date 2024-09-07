@@ -13,4 +13,4 @@
 | 9차시 | 2024.08.27.화 | 수학 | [음식 평론가(1188)](https://www.acmicpc.net/problem/1188) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/150 |
 | 10차시 | 2024.08.28.수 | 브루트포스 | [램프(1034)](https://www.acmicpc.net/problem/1034) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/151 |
 | 11차시 | 2024.09.04.수 | 수학 | [축구(1344)](https://www.acmicpc.net/problem/1344) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/153 |
-| 12차시 | 2024.09.07.토 | 다이나믹 프로그래밍 | [개근상(1563)](https://www.acmicpc.net/problem/1563) |  |
+| 12차시 | 2024.09.07.토 | 다이나믹 프로그래밍 | [개근상(1563)](https://www.acmicpc.net/problem/1563) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/157 |
