@@ -41,4 +41,5 @@
 | 3차시 | 2024.7.24 | 덱 |  <a href= "https://www.acmicpc.net/problem/5430">AC</a> |[#130](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/130) |
 | 4차시 | 2024.7.28 | 분할 정복 |  <a href= "https://www.acmicpc.net/problem/1074">Z</a> |[#135](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/135) |
 | 5차시 | 2024.7.31 | 위상정렬 |  <a href= "https://www.acmicpc.net/problem/2056">작업</a> |[#138](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/138) |
+| 6차시 | 2024.8.3 | BFS |  <a href= "https://www.acmicpc.net/problem/14940">쉬운 최단거리</a> |[#140](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/140) |
 ---
