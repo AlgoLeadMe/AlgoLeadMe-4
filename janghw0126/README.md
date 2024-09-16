@@ -31,6 +31,7 @@
 | 26차시 | 2024.3.30 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/14501">퇴사</a> |[#110](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/110) |
 | 27차시 | 2024.4.3 | 브루트 포스 |  <a href= "https://www.acmicpc.net/problem/16198">에너지 모으기</a> |[#115](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/115) |
 | 28차시 | 2024.4.12 | 정렬 |  <a href= "https://www.acmicpc.net/problem/2751">수 정렬하기 2</a> |[#117](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/117) |
+---
 
 ### 2024-2
 | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
