@@ -63,7 +63,6 @@ class Solution {
       this.cost = cost;
     }
 
-
     // 우선순위: 비용이 작은 순
     @Override
     public int compareTo(Point o) {
