@@ -43,4 +43,5 @@
 | 5차시 | 2024.7.31 | 위상정렬 |  <a href= "https://www.acmicpc.net/problem/2056">작업</a> |[#138](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/138) |
 | 6차시 | 2024.8.3 | BFS |  <a href= "https://www.acmicpc.net/problem/14940">쉬운 최단거리</a> |[#140](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/140) |
 | 7차시 | 2024.8.8 | DFS |  <a href= "https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> |[#145](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/145) |
+| 8차시 | 2024.8.19 | 최소 힙 |  <a href= "https://www.acmicpc.net/problem/2075">N번째 큰 수</a> |[#145](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/147) |
 ---
