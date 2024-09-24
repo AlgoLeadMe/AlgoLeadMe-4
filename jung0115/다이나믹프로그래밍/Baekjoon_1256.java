@@ -32,7 +32,7 @@ public class Baekjoon_1256 {
     }
 
     // 사전에 수록되어 있는 문자열의 개수가 K보다 작을 경우
-    if(dp[N + M][N] < K) {
+    if(dp[N + M][M] < K) {
       answer.append("-1");
     }
     else {
