@@ -12,4 +12,3 @@
 | 8차시 | 2024.09.04 | 위상정렬 | <a href="https://www.acmicpc.net/problem/1766">문제집</a>   | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/154) |
 | 9차시 | 2024.09.07 | 스택 | <a href="https://www.acmicpc.net/problem/2176">원숭이 매달기</a>   | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/156) |
 | 10차시 | 2024.09.11 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/1715">카드 정렬하기</a>   | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/159) |
-| 11차시 | 2024.09.18 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a>   | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/161) |
