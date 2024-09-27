@@ -16,4 +16,4 @@
 | 12차시 | 2024.09.07.토 | 다이나믹 프로그래밍 | [개근상(1563)](https://www.acmicpc.net/problem/1563) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/157 |
 | 13차시 | 2024.09.23.월 | 다이나믹 프로그래밍 | [사전(1256)](https://www.acmicpc.net/problem/1256) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/162 |
 | 14차시 | 2024.09.25.수 | 그리디 알고리즘 | [컵라면(1781)](https://www.acmicpc.net/problem/1781) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/165 |
-| 15차시 | 2024.09.28.토 | 이분 탐색 | [가장 긴 증가하는 부분 수열 2(12015)](https://www.acmicpc.net/problem/12015) |  |
+| 15차시 | 2024.09.28.토 | 이분 탐색 | [가장 긴 증가하는 부분 수열 2(12015)](https://www.acmicpc.net/problem/12015) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/169 |
