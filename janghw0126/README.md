@@ -45,4 +45,8 @@
 | 7차시 | 2024.8.8 | DFS |  <a href= "https://school.programmers.co.kr/learn/courses/30/lessons/92343">양과 늑대</a> |[#145](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/145) |
 | 8차시 | 2024.8.19 | 최소 힙 |  <a href= "https://www.acmicpc.net/problem/2075">N번째 큰 수</a> |[#145](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/147) |
 | 9차시 | 2024.8.25 | BFS |  <a href= "https://www.acmicpc.net/problem/1697">숨바꼭질</a> |[#149](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/149) |
+| 10차시 | 2024.9.9 | 위상정렬 |  <a href= "https://www.acmicpc.net/problem/2252">줄 세우기</a> |[#158](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/158) |
+| 11차시 | 2024.9.17 | 우선순위 큐 |  <a href= "https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a> |[#160](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/160) |
+| 12차시 | 2024.9.24 | 투 포인터 |  <a href= "https://www.acmicpc.net/problem/5525">IOIOI</a> |[#163](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/163) |
+| 13차시 | 2024.9.27 | BFS |  <a href= "https://www.acmicpc.net/problem/7576">토마토</a> |[#166](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/166) |
 ---
