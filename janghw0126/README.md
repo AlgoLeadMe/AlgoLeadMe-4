@@ -49,4 +49,5 @@
 | 11차시 | 2024.9.17 | 우선순위 큐 |  <a href= "https://www.acmicpc.net/problem/7662">이중 우선순위 큐</a> |[#160](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/160) |
 | 12차시 | 2024.9.24 | 투 포인터 |  <a href= "https://www.acmicpc.net/problem/5525">IOIOI</a> |[#163](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/163) |
 | 13차시 | 2024.9.27 | BFS |  <a href= "https://www.acmicpc.net/problem/7576">토마토</a> |[#166](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/166) |
+| 14차시 | 2024.10.5 | BFS |  <a href= "https://www.acmicpc.net/problem/10026">적록색약</a> |[#172](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/172) |
 ---
