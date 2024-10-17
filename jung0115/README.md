@@ -13,3 +13,11 @@
 | 9차시 | 2024.08.27.화 | 수학 | [음식 평론가(1188)](https://www.acmicpc.net/problem/1188) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/150 |
 | 10차시 | 2024.08.28.수 | 브루트포스 | [램프(1034)](https://www.acmicpc.net/problem/1034) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/151 |
 | 11차시 | 2024.09.04.수 | 수학 | [축구(1344)](https://www.acmicpc.net/problem/1344) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/153 |
+| 12차시 | 2024.09.07.토 | 다이나믹 프로그래밍 | [개근상(1563)](https://www.acmicpc.net/problem/1563) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/157 |
+| 13차시 | 2024.09.23.월 | 다이나믹 프로그래밍 | [사전(1256)](https://www.acmicpc.net/problem/1256) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/162 |
+| 14차시 | 2024.09.25.수 | 그리디 알고리즘 | [컵라면(1781)](https://www.acmicpc.net/problem/1781) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/165 |
+| 15차시 | 2024.09.28.토 | 이분 탐색 | [가장 긴 증가하는 부분 수열 2(12015)](https://www.acmicpc.net/problem/12015) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/169 |
+| 16차시 | 2024.10.05.토 | 시뮬레이션 | [주차 요금 계산(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/173 |
+| 17차시 | 2024.10.11.금 | 그리디 알고리즘 | [마법의 엘리베이터(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/175 |
+| 18차시 | 2024.10.12.토 | 다이나믹 프로그래밍 | [뉴스 전하기(1135)](https://www.acmicpc.net/problem/1135) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/177 |
+| 19차시 | 2024.10.16.수 | 분할정복 | [괄호 변환(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/178 |
