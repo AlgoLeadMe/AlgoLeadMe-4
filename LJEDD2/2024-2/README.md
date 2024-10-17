@@ -11,3 +11,8 @@
 | 7차시 | 2024.09.01 | 위상정렬 | <a href="https://www.acmicpc.net/problem/2252">줄 세우기</a>   | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/152) |
 | 8차시 | 2024.09.04 | 위상정렬 | <a href="https://www.acmicpc.net/problem/1766">문제집</a>   | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/154) |
 | 9차시 | 2024.09.07 | 스택 | <a href="https://www.acmicpc.net/problem/2176">원숭이 매달기</a>   | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/156) |
+| 10차시 | 2024.09.11 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/1715">카드 정렬하기</a>   | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/159) |
+| 11차시 | 2024.09.18 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a>   | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/161) |
+| 12차시 | 2024.09.21 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/15903">카드 합체 놀이</a>   | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/164) |
+| 13차시 | 2024.09.25 | 플로이드 워셜 | <a href="https://www.acmicpc.net/problem/1058">친구</a>   | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/167) |
+| 14차시 | 2024.10.02 | 브루트포스 | <a href="https://www.acmicpc.net/problem/11502">세 개의 소수 문제</a>   | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/174) |
