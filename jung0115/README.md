@@ -23,3 +23,4 @@
 | 19차시 | 2024.10.16.수 | 분할정복 | [괄호 변환(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/178 |
 | 20차시 | 2024.10.19.토 | 백트래킹 | [불량 사용자(Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/180 |
 | 21차시 | 2024.10.23.수 | DFS | [여행경로(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/181 |
+| 22차시 | 2024.10.30.수 | 브루트포스 | [점 찍기(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/140107) |  |
