@@ -52,4 +52,5 @@
 | 14차시 | 2024.10.5 | BFS |  <a href= "https://www.acmicpc.net/problem/10026">적록색약</a> |[#172](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/172) |
 | 15차시 | 2024.10.12 | 이진 탐색 |  <a href= "https://school.programmers.co.kr/learn/courses/30/lessons/43236">징검다리</a> |[#176](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/176) |
 | 16차시 | 2024.10.30 | 스택 |  <a href= "https://www.acmicpc.net/problem/9935">문자열 폭발</a> |[#183](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/183) |
+| 17차시 | 2024.11.3 | 이진 탐색 |  <a href= "https://www.acmicpc.net/problem/1654">랜선 자르기</a> |[#186](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/186) |
 ---
