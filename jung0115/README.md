@@ -20,3 +20,4 @@
 | 16차시 | 2024.10.05.토 | 시뮬레이션 | [주차 요금 계산(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/173 |
 | 17차시 | 2024.10.11.금 | 그리디 알고리즘 | [마법의 엘리베이터(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/175 |
 | 18차시 | 2024.10.12.토 | 다이나믹 프로그래밍 | [뉴스 전하기(1135)](https://www.acmicpc.net/problem/1135) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/177 |
+| 19차시 | 2024.10.16.수 | 분할정복 | [괄호 변환(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/60058) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/178 |
