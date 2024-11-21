@@ -25,3 +25,4 @@
 | 21차시 | 2024.10.23.수 | DFS | [여행경로(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/181 |
 | 22차시 | 2024.10.30.수 | 브루트포스 | [점 찍기(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/182 |
 | 23차시 | 2024.11.02.토 | 그리디 알고리즘 | [구명보트(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/184 |
+| 24처사 | 2024.11.09.토 | 그리디 알고리즘 | [섬 연결하기(Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/187 |
