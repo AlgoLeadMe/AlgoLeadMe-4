@@ -1,4 +1,4 @@
-// 프로그래머스 - 괄호 변환(Lv.2)
+// 19차시 2024.10.16.수 : 프로그래머스 - 괄호 변환(Lv.2)
 class Solution {
   fun solution(p: String): String {
     // 괄호를 숫자로 변환
