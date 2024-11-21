@@ -43,6 +43,6 @@ for _ in range(t):
     if is_reversed:
         # 최종 상태가 뒤집힌 경우 덱을 뒤집음
         dq.reverse()
- 
+
     # 덱을 문자열로 변환하여 출력
     print("[" + ",".join(dq) + "]")
