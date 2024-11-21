@@ -18,3 +18,4 @@
 | 14차시 | 2024.09.25.수 | 그리디 알고리즘 | [컵라면(1781)](https://www.acmicpc.net/problem/1781) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/165 |
 | 15차시 | 2024.09.28.토 | 이분 탐색 | [가장 긴 증가하는 부분 수열 2(12015)](https://www.acmicpc.net/problem/12015) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/169 |
 | 16차시 | 2024.10.05.토 | 시뮬레이션 | [주차 요금 계산(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/173 |
+| 17차시 | 2024.10.11.금 | 그리디 알고리즘 | [마법의 엘리베이터(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/175 |
