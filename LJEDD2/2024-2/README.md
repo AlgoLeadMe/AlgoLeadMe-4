@@ -15,4 +15,6 @@
 | 11차시 | 2024.09.18 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/2075">N번째 큰 수</a>   | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/161) |
 | 12차시 | 2024.09.21 | 우선순위 큐 | <a href="https://www.acmicpc.net/problem/15903">카드 합체 놀이</a>   | [#12](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/164) |
 | 13차시 | 2024.09.25 | 플로이드 워셜 | <a href="https://www.acmicpc.net/problem/1058">친구</a>   | [#13](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/167) |
-| 14차시 | 2024.10.02 | 브루트포스 | <a href="https://www.acmicpc.net/problem/11502">세 개의 소수 문제</a>   | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/174) |
+| 14차시 | 2024.09.28 | 큐 | <a href="https://www.acmicpc.net/problem/2161">카드1</a>   | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/170) |
+| 15차시 | 2024.10.02 | 브루트포스 | <a href="https://www.acmicpc.net/problem/11502">세 개의 소수 문제</a>   | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/174) |
+| 16차시 | 2024.10.05 | 그리디 | <a href="https://www.acmicpc.net/problem/28110">마지막 문제</a>   | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/179) |
