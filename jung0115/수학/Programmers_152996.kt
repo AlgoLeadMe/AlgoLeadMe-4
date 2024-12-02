@@ -15,17 +15,17 @@ class Solution {
       }
       
       // 2:3 비율
-      if (weight * 3 % 2 == 0 && weightCount.containsKey(weight * 3 / 2)) {
+      if (weight % 2 == 0 && weightCount.containsKey(weight * 3 / 2)) {
         answer += count * weightCount[weight * 3 / 2]!!
       }
       
       // 2:4 = 1:2 비율
-      if (weight * 2 % 1 == 0 && weightCount.containsKey(weight * 2)) {
+      if (weightCount.containsKey(weight * 2)) {
         answer += count * weightCount[weight * 2]!!
       }
 
       // 3:4 비율
-      if (weight * 4 % 3 == 0 && weightCount.containsKey(weight * 4 / 3)) {
+      if (weight % 3 == 0 && weightCount.containsKey(weight * 4 / 3)) {
         answer += count * weightCount[weight * 4 / 3]!!
       }
     }
