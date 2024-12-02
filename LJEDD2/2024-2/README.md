@@ -18,3 +18,4 @@
 | 14차시 | 2024.09.28 | 큐 | <a href="https://www.acmicpc.net/problem/2161">카드1</a>   | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/170) |
 | 15차시 | 2024.10.02 | 브루트포스 | <a href="https://www.acmicpc.net/problem/11502">세 개의 소수 문제</a>   | [#15](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/174) |
 | 16차시 | 2024.10.05 | 그리디 | <a href="https://www.acmicpc.net/problem/28110">마지막 문제</a>   | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/179) |
+| 17차시 | 2024.11.02 | 너비우선탐색(BFS) | <a href="https://www.acmicpc.net/problem/9019">DSLR</a>   | [#16](https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/185) |
