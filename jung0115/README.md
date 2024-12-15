@@ -27,3 +27,4 @@
 | 23차시 | 2024.11.02.토 | 그리디 알고리즘 | [구명보트(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/184 |
 | 24차시 | 2024.11.09.토 | 그리디 알고리즘 | [섬 연결하기(Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/187 |
 | 25차시 | 2024.11.27.수 | 그리디 알고리즘 | [호텔 대실(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/189 |
+| 26차시 | 2024.12.02.월 | 수학 | [시소 짝꿍(Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | https://github.com/AlgoLeadMe/AlgoLeadMe-4/pull/190 |
